@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "nodetime": {
+      "version": "0.8.15",
+      "dependencies": {
+        "nodetime-native": {
+          "version": "0.1.0",
+          "dependencies": {
+            "bindings": {
+              "version": "1.2.1"
+            }
+          }
+        }
+      }
+    }
+  }
+}
